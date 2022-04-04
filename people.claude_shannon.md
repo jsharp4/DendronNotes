@@ -6,4 +6,4 @@ updated: 1647927296465
 created: 1647927277675
 ---
 
-[?] Did Shannon visit the IAS?
+#qq Did Shannon visit the IAS?

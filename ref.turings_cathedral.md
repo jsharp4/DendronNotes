@@ -4,17 +4,18 @@ title: Turing's Cathedral
 desc: ''
 updated: 1647929407853
 created: 1647926787853
-author: George Dyson
-publish_year: 2012
-accessed: Audible
 ---
+
+| Author | Publish Year | Publisher | Accessed | Link |
+| :-------: | :------------:|:------------:|:------:| :---: |
+| [[people.george_dyson]] | 2012     | [[pub.rha]] | [[companies.audible]] | https://www.amazon.com/Turings-Cathedral-George-Dyson-audiobook/dp/B007HI3IF2/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=]]
 
 # Summary
 _Turing's Cathedral_ is not a book about [[people.alan_turing]]. While set in his era, and even intersects with rough location when he visited the United States and met with [[people.claude_shannon]] to discuss the theory of computing, the book is about his contemporaries at the [[places.ias]] and the computers which were built to instantiate the universal computing machine.
 
 # Noteworthy Ideas
 * The [[places.ias]] was not originally planned to be at [[places.princeton]]. Princeton leadership lobbied hard for locations nearby the campus, and continued to spend large sums on expansion nearby.
-[?] Who was the leader of Princeton at this time, and who became the leader of IAS?
+#qq Who was the leader of Princeton at this time, and who became the leader of IAS?
 
 * The [[places.ias]] benefitted greatly from German hostility towards Jews near the onset of WWII. Hungarian [[people.von_neumann]], German [[people.einstein]], Austrian [[people.kurt_godel]], and Polish [[people.stan_ulam]] all fled Europe to make significant contributions to computing in the United States. The [[places.ias]] was willing to jump through hoops, lie about teaching positions (in Godel's case), and invest significant funds to facilitate immigration.
 
