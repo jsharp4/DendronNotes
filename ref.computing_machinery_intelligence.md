@@ -9,7 +9,7 @@ created: 1649052378156
 
 | Author | Publish Year | Publisher | Accessed | Link |
 | :-------: | :------------:|:------------:|:------:| :---: |
-| [[people.alan_turing]]| 1950 | [[pub.mind]] | PDF | https://academic.oup.com/mind/article/LIX/236/433/986238 |
+| [[ppl.alan_turing]]| 1950 | [[pub.mind]] | PDF | https://academic.oup.com/mind/article/LIX/236/433/986238 |
 
 # Summary
 Turing argues that the question "Can machines think?" is important, but is ill-defined as neither "think" nor "machine" has clear meaning. He defines a machine as a digital discrete state machine (mostly for convenience, as he'd already proved that these machines are universal computers provided sufficient storage in [[ref.on_computable_numbers]]). He suggests that a thinking being should act indistinguishably from a human, as humans are the only entities which undisputably think.

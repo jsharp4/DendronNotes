@@ -6,7 +6,7 @@ updated: 1649053817807
 created: 1649053817807
 ---
 
-As described by [[people.alan_turing]] in [[ref.computing_machinery_intelligence]], the storage capacity of a system is defined as
+As described by [[ppl.alan_turing]] in [[ref.computing_machinery_intelligence]], the storage capacity of a system is defined as
 
 $
 C_S = log_2(n_{ds})

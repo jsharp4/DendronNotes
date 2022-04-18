@@ -9,7 +9,7 @@ created: 1649053231963
 
 | Author | Publish Year | Publisher | Accessed | Link |
 | :-------: | :------------:|:------------:|:------:| :---: |
-| [[people.alan_turing]]| 1936 | [[pub.london_math_society]] | PDF | https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf |
+| [[ppl.alan_turing]]| 1936 | [[pub.london_math_society]] | PDF | https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf |
 
 # Summary
 
