@@ -2,7 +2,7 @@
 id: wxj39y8uks3w650ja2w7pj4
 title: VO2 Max
 desc: ''
-updated: 1649551857495
+updated: 1652246699757
 created: 1649551170680
 ---
 
@@ -19,6 +19,7 @@ $SV$ = stroke volume (the volume of blood your heart is moving with each stroke)
 $HR$ = heart rate
 
 $a-v \Delta O_2$ = arteriovenous oxygen difference (how much oxygen the body is actually utilizing)
+
 $SV x HR$ = CO (cardiac output)
 
 ## How to increase your V02 Max
