@@ -1,2 +1,7 @@
-.vscode
-.dendron.cache.dendron
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
+
