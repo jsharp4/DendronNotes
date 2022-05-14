@@ -2,7 +2,7 @@
 id: br5cfftpgcwdgm3ri44bn7w
 title: Todo
 desc: ''
-updated: 1652325450259
+updated: 1652556762773
 created: 1651117819498
 ---
 ## One-off
@@ -13,8 +13,6 @@ created: 1651117819498
 [] Sign up for Estes Marathon
 
 [] Finalize Alaska plans
-
-[] Setup Dendron server using EC2
 
 [] Plan weekends through June
 
@@ -43,6 +41,8 @@ created: 1651117819498
 [X] Clip nails
 
 [X] Find lower back exercise that doesn't stress legs [[body.back.ex.good_morning]]
+
+[X] Setup Dendron server using EC2
 
 ## Standing
 * Compliment every person I talk to
