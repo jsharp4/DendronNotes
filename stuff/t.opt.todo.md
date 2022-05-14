@@ -7,8 +7,9 @@ created: 1651117819498
 ---
 ## One-off
 [] Gear check for Olympic trip
-   * Find where to get bear canister
    * Make food plan 
+
+[] Setup Dendron server using EC2
 
 [] Sign up for Estes Marathon
 
@@ -41,8 +42,6 @@ created: 1651117819498
 [X] Clip nails
 
 [X] Find lower back exercise that doesn't stress legs [[body.back.ex.good_morning]]
-
-[X] Setup Dendron server using EC2
 
 ## Standing
 * Compliment every person I talk to
