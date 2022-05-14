@@ -1,0 +1,10 @@
+version: 1
+imports: []
+schemas:
+  - id: ref
+    title: ref
+    parent: root
+    children:
+      - pattern: '*'
+    namespace: true
+    template: templates.ref

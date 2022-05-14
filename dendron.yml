@@ -22,7 +22,7 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: vault
+            fsPath: stuff
     journal:
         dailyDomain: daily
         name: journal
@@ -101,5 +101,5 @@ publishing:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - vault
+            - stuff
     
