@@ -37,10 +37,6 @@ created: 1651117819498
 
 [] Research new monitor/desk setup (2 hour)
 
-[] Get groceries
-
-[X] Clip nails
-
 [X] Find lower back exercise that doesn't stress legs [[body.back.ex.good_morning]]
 
 ## Standing
